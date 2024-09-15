@@ -3,16 +3,19 @@ Aplikacja internetowa LearnProg stworzona przy użyciu HTML, CSS, JavaScript, PH
 
 ![Strona główna](./Documentation%20files/page_preview.png)
 
+# Spis treści
+* [O projekcie](#o-projekcie)
+* [Wymagania systemowe](#wymagania-systemowe)
+* [Instalacja](#instalacja)
+* [Autor](#autor)
+* [Wykorzystane zewnętrzne biblioteki](#wykorzystane-zewnętrzne-biblioteki)
+
+# O projekcie
 Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkownikom naukę języka programowania C++. Aplikacja ta skupia się na dostarczeniu kursów na trzy poziomy zaawansowania: dla początkujących, średniozaawansowanych i zaawansowanych. Każdy kurs składa się z serii lekcji oraz zadań, które pozwalają użytkownikom na systematyczną naukę oraz sprawdzenie swoich umiejętności.
 <div align="center">
    <img src="./Documentation%20files/pages.png" alt="Strony aplikacji" />
 </div>
 
-# Spis treści
-* [Wymagania systemowe](#wymagania-systemowe)
-* [Instalacja](#instalacja)
-* [Autor](#autor)
-* [Wykorzystane zewnętrzne biblioteki](#wykorzystane-zewnętrzne-biblioteki)
   
 ## Wymagania systemowe
 
