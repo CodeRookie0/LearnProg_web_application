@@ -13,7 +13,7 @@ Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkow
 # Polski
 
 1. Prześlij dostarczone pliki na serwer Manticore za pomocą programu "WinSCP".
-2. Otwórz stronę https://manticore.uni.lodz.pl/~maria_sh/php_project/my_project/pages/index.php .
+2. Otwórz stronę https://manticore.uni.lodz.pl/~maria_sh/php_project/project/pages/index.php .
 3. Aplikacja automatycznie sprawdzi swój stan i rozpocznie instalację. Od tego momentu użytkownicy muszą tylko postępować zgodnie z instrukcjami instalatora.
 4. Utwórz plik con.fig.php za pomocą programu "Putty", na przykład touch con.fig.php, a następnie odśwież stronę, np. klikając "Odśwież stronę".
 5. Zmień uprawnienia dla pliku con.fig.php, na przykład chmod o+w con.fig.php, a następnie odśwież stronę, np. klikając "Odśwież stronę".
@@ -29,7 +29,7 @@ Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkow
 # English
 
 1. Upload the provided files to the Manticore server using the "WinSCP" program.
-2. Open the page https://manticore.uni.lodz.pl/~maria_sh/php_project/my_project/pages/index.php .
+2. Open the page https://manticore.uni.lodz.pl/~maria_sh/php_project/project/pages/index.php .
 3. The application will automatically check its status and proceed to installation. From this point, users only need to follow the installer's instructions.
 4. Create a file con.fig.php using the "Putty" program, for example, touch con.fig.php, and then refresh the page, e.g., by clicking "Refresh page".
 5. Change permissions for the con.fig.php file, for example, chmod o+w con.fig.php, and then refresh the page, e.g., by clicking "Refresh page".

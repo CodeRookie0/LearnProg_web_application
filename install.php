@@ -10,9 +10,9 @@ $step = isset($_POST['step']) ? intval($_POST['step']) : 1;
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>LearnProg - Installation</title>
-    <link rel="icon" href="./my_project/image/logo-icon.ico" type="image/x-icon">
+    <link rel="icon" href="./project/image/logo-icon.ico" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
-    <link href="./my_project/css/style.css" rel="stylesheet" />
+    <link href="./project/css/style.css" rel="stylesheet" />
     <style>
         html, body {
             height: 100%;
@@ -301,7 +301,7 @@ $step = isset($_POST['step']) ? intval($_POST['step']) : 1;
                             echo "<li class='mt-4 fs-5'>When you are sure that the application works properly, remember to remove <code>install.php</code><br>e.g. <code>rm install.php</code>.</li>";
                             echo "</ol>";
                             echo "<p class='mt-4 fs-5'>The web application is already installed and ready to run, the link below will take you to it</p>";
-                            echo "<p class='mt-4 text-center fs-5'><button class='btn btn-outline-primary' onclick=\"window.location.href='./my_project/pages/index.php'\">Home Page</button></p>";
+                            echo "<p class='mt-4 text-center fs-5'><button class='btn btn-outline-primary' onclick=\"window.location.href='./project/pages/index.php'\">Home Page</button></p>";
                         }
                 
                         switch($step) {
