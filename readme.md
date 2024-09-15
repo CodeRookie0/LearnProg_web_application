@@ -1,6 +1,12 @@
 # Aplikacja e-learningowa do nauki C++
+Aplikacja internetowa LearnProg stworzona przy użyciu HTML, CSS, JavaScript, PHP, MariaDB
+
+![Strona główna](./Documentation%20files/page_preview.png)
 
 Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkownikom naukę języka programowania C++. Aplikacja ta skupia się na dostarczeniu kursów na trzy poziomy zaawansowania: dla początkujących, średniozaawansowanych i zaawansowanych. Każdy kurs składa się z serii lekcji oraz zadań, które pozwalają użytkownikom na systematyczną naukę oraz sprawdzenie swoich umiejętności.
+<div align="center">
+   <img src="./Documentation%20files/pages.png" alt="Strony aplikacji" />
+</div>
 
 ## Wymagania systemowe
 
@@ -8,12 +14,12 @@ Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkow
 - Wersja PHP: 7.4.3-4ubuntu2.22
 - Wersja MariaDB: 10.3.39-MariaDB-0ubuntu0.20.04.2
 
-## Instalacja
+# Instalacja
 
-# Polski
+## Polski
 
 1. Prześlij dostarczone pliki na serwer Manticore za pomocą programu "WinSCP".
-2. Otwórz stronę https://manticore.uni.lodz.pl/~maria_sh/php_project/project/pages/index.php .
+2. Otwórz stronę https://manticore.uni.lodz.pl/~maria_sh/php_project/my_project/pages/index.php .
 3. Aplikacja automatycznie sprawdzi swój stan i rozpocznie instalację. Od tego momentu użytkownicy muszą tylko postępować zgodnie z instrukcjami instalatora.
 4. Utwórz plik con.fig.php za pomocą programu "Putty", na przykład touch con.fig.php, a następnie odśwież stronę, np. klikając "Odśwież stronę".
 5. Zmień uprawnienia dla pliku con.fig.php, na przykład chmod o+w con.fig.php, a następnie odśwież stronę, np. klikając "Odśwież stronę".
@@ -26,10 +32,10 @@ Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkow
 8. Instalator wyświetli formularz do utworzenia pierwszego konta, czyli konta administratorskiego. W górnej części formularza na czerwono będą wyświetlane wytyczne, które musi spełniać konto do stworzenia. Zostaniesz poinformowany, jeśli konto spełnia wszystkie wymagania.
 9. W kroku 6 instalacja jest prawie zakończona. Zmień prawa dostępu do pliku con.fig.php, np. chmod o-w con.fig.php. Gdy jesteś pewny, że aplikacja działa poprawnie, usuń plik install.php, np. rm install.php. Aby uzyskać dostęp do działającej strony, możesz skorzystać z linku z punktu 2 lub kliknąć w link "Home Page" w instalatorze.
 
-# English
+## English
 
 1. Upload the provided files to the Manticore server using the "WinSCP" program.
-2. Open the page https://manticore.uni.lodz.pl/~maria_sh/php_project/project/pages/index.php .
+2. Open the page https://manticore.uni.lodz.pl/~maria_sh/php_project/my_project/pages/index.php .
 3. The application will automatically check its status and proceed to installation. From this point, users only need to follow the installer's instructions.
 4. Create a file con.fig.php using the "Putty" program, for example, touch con.fig.php, and then refresh the page, e.g., by clicking "Refresh page".
 5. Change permissions for the con.fig.php file, for example, chmod o+w con.fig.php, and then refresh the page, e.g., by clicking "Refresh page".
