@@ -8,6 +8,12 @@ Projekt zakłada stworzenie aplikacji e-learningowej, która umożliwia użytkow
    <img src="./Documentation%20files/pages.png" alt="Strony aplikacji" />
 </div>
 
+# Spis treści
+* [Wymagania systemowe](#wymagania-systemowe)
+* [Instalacja](#instalacja)
+* [Autor](#autor)
+* [Wykorzystane zewnętrzne biblioteki](#wykorzystane-zewnętrzne-biblioteki)
+  
 ## Wymagania systemowe
 
 - Wersja Apache : Apache/2.4.41 (Ubuntu)
